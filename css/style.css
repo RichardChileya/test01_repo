@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+img {
+    text-align: center;
+    display: block;
+    size: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+image {
+    text-align: center;
+}
